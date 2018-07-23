@@ -1,0 +1,153 @@
+C:\Personal\Backup Study\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+C:\Personal\Backup Study\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+C:\Personal\Backup Study\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+C:\Personal\Backup Study\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+C:\Personal\Backup Study\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+C:\Personal\Backup Study\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+C:\Personal\Backup Study\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+C:\Personal\Backup Study\Backu\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+C:\Personal\Backup Study\Backu\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+C:\Personal\Backup Study\Backu\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+C:\Personal\Backup Study\Backu\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+C:\Personal\Backup Study\Backu\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+C:\Personal\Backup Study\Backu\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+C:\Personal\Backup Study\Backu\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\mscorlib.dll
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\normidna.nlp
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\normnfc.nlp
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\normnfd.nlp
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\normnfkc.nlp
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\normnfkd.nlp
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+E:\Chandra\Project\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+E:\Chandra\Project\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+E:\Chandra\Project\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+E:\Chandra\Project\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+E:\Chandra\Project\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+E:\Chandra\Project\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+E:\Chandra\Project\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+E:\Code\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+E:\Code\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+E:\Code\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+E:\Code\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+E:\Code\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+E:\Code\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+E:\Code\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb
+F:\BillingSoftware\12July2018\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\12July2018\StoreBilling\BillingBusiness\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\12July2018\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\12July2018\StoreBilling\BillingBusiness\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\12July2018\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\12July2018\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.dll
+F:\BillingSoftware\12July2018\StoreBilling\BillingBusiness\obj\Debug\BillingBusiness.pdb

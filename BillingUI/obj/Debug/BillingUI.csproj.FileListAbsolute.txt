@@ -1,0 +1,735 @@
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMonthlyInvoice.resources
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+C:\02 Ashish\Billing\01 StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+C:\Personal\Backup Study\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+C:\Personal\Backup Study\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+C:\Personal\Backup Study\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+C:\Personal\Backup Study\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+C:\Personal\Backup Study\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+C:\Personal\Backup Study\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+C:\Personal\Backup Study\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMonthlyInvoice.resources
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+C:\Personal\Backup Study\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMonthlyInvoice.resources
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+C:\Personal\Backup Study\Backu\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\mscorlib.dll
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\normidna.nlp
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\normnfc.nlp
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\normnfd.nlp
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\normnfkc.nlp
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\bin\Debug\normnfkd.nlp
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMonthlyInvoice.resources
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+C:\software\Billing\Billing\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+E:\Chandra\Project\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+E:\Chandra\Project\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+E:\Chandra\Project\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+E:\Chandra\Project\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+E:\Chandra\Project\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+E:\Chandra\Project\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+E:\Chandra\Project\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+E:\Chandra\Project\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\23Sep2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\02Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\04Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+C:\MyLearningProjects\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+C:\MyLearningProjects\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+C:\MyLearningProjects\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+C:\Users\PallSing\Downloads\Store Billing App-20171009T190855Z-001\Store Billing App\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+C:\Users\PallSing\Downloads\Store Billing App-20171009T190855Z-001\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+C:\Users\PallSing\Downloads\Store Billing App-20171009T190855Z-001\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+C:\MyLearningProjects\Store Billing App\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\19Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+C:\MyLearningProjects\StoreBilling23Oct2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+C:\MyLearningProjects\StoreBilling23Oct2017New\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\14Nov2017\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\29Dec2017\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\04Jan2018\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+D:\SantoshData\Personal\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+E:\Code\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+E:\Code\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+E:\Code\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+E:\Code\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+E:\Code\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+E:\Code\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+E:\Code\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+E:\Code\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\From Santosh\30May2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\06June2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\16Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\25Jun2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\09July2018\StoreBilling\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\12July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\bin\Debug\BillingUI.exe.config
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\bin\Debug\BillingUI.exe
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\bin\Debug\BillingUI.pdb
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\bin\Debug\BillingBusiness.dll
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.dll
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\bin\Debug\BillingBusiness.pdb
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\bin\Debug\BillingDataAccess.pdb
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.csprojResolveAssemblyReference.cache
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.ForgotPassword.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.Form1.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmMeasurementUnit.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProduct.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmProductCategory.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmUnit.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSize.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmSubProductCategory.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Master.frmTax.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.MDIParent.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.Properties.Resources.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeleveryNoteReport.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmDeliveryNote.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.Inventory.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInventryReport.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoice.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmInvoiceReport.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotation.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmQuotationReport.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStock.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\AC.Billing.UI.Transaction.frmStockReport.resources
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.csproj.GenerateResource.Cache
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.exe
+F:\BillingSoftware\20July2018\StoreBilling\BillingUI\obj\Debug\BillingUI.pdb

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+  <appSettings>
+    <add key="sqlCommandTimeout" value="0"/>
+    <add key="configConnectionStringName" value="ConnectionString"/>
+  </appSettings>
+  <connectionStrings>
+    <add name="ConnectionString" connectionString="Data Source=.;Initial Catalog=Billing;Integrated Security=True; UID=; PWD=;Max Pool Size=100;" providerName="System.Data.SqlClient"/>
+  </connectionStrings>
+</configuration>
